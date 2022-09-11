@@ -1,0 +1,4 @@
+export enum DIRECTION {
+  HORIZONTAL = 'HORIZONTAL',
+  VERTICAL = 'VERTICAL',
+}
